@@ -1,0 +1,5 @@
+Station_name;Long;Lat;Elev
+OSUG_B;5.76;45.19;226.
+Chamrousse;5.88;45.13;1750.
+GreEn_ER;5.70;45.20;218.
+SMU;5.861563;45.159877 ;904.
