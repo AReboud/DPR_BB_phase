@@ -1,5 +1,5 @@
 # DPR_BB_phase
-This code use the 2ADPR GPM products (available on the NASA platform https://storm.pps.eosdis.nasa.gov/storm/) to automatically retrieve the bright band elevations (height, bottom, and top).
+This code use GPM/2ADPR products (available on the NASA platform https://storm.pps.eosdis.nasa.gov/storm/) to automatically retrieve the bright band elevations (height, bottom, and top) during a precipitation event. It also provides spatialized visualizations of the bright band elevations and the phase of precipitation.
 
 ## How to use
 The code is developed for python 3.8+ and should run on any recent Windows system (and most likely also Linux, but not tested).
